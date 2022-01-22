@@ -27,11 +27,11 @@
 |CT14|1              |Valor Válido       |CE10|
 |CT15|17;64          |Reprovado por Falta|CE11|
 |CT16|16;64;2.99;3.00|Reprovado por Média|CE12|
-|CT16|16;64;3.00;2.99|Reprovado por Média|CE12|
-|CT17|16;64;3.00;3.00|Recuperação        |CE13|
-|CT18|16;64;5.99;6.00|Recuperação        |CE13|
-|CT19|16;64;6.00;5.99|Recuperação        |CE13|
-|CT20|16;64;6.00;6.00|Aprovado           |CE14|
+|CT17|16;64;3.00;2.99|Reprovado por Média|CE12|
+|CT18|16;64;3.00;3.00|Recuperação        |CE13|
+|CT19|16;64;5.99;6.00|Recuperação        |CE13|
+|CT20|16;64;6.00;5.99|Recuperação        |CE13|
+|CT21|16;64;6.00;6.00|Aprovado           |CE14|
 
 Onde:
 **CT** = Caso de Teste, seguido de um valor sequencial;
