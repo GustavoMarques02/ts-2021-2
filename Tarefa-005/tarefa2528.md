@@ -28,4 +28,14 @@
 
 **Tabela de Decisão**
 
+| |Regra1|Regra2|Regra3|Regra4|Regra5|Regra6|Regra7|Regra8|
+|---|---|---|---|---|---|---|---|---|
+|**Condições**| | | | | | | | |
+|Sexo|Masculino|Masculino|Masculino|Masculino|Feminino|Feminino|Feminino|Feminino|
+|Idade (anos)|< 25|< 25|> 25|> 25|< 25|< 25|> 25|> 25|
+|Estado Civil|Solteiro|Casado|Solteiro|Casado|Solteira|Casada|Solteira|Casada|
+|---|---|---|---|---|---|---|---|---|
+|**Ações**| | | | | | | | |
+|Desconto|0%|5%|10%|15%|5%|10%|15%|20%|
+
 **Casos de Teste**
