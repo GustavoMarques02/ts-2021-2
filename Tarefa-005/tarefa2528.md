@@ -1,6 +1,7 @@
 ## Tarefa 005 - 08/02/2022 - Grafo de Causa e Efeito / Tabela de Decisão.
 
 1. Considere o seguinte cenário: Uma corretora de seguros concede desconto sobre o prêmio anual de seguro de automóvel, aos seus segurados conforme as regras a seguir:
+
 |Sexo|Idade (anos)|Estado Civil|Desconto (%)|
 |---|---|---|---|
 |Masculino|< 25|Solteiro|0|
@@ -22,7 +23,8 @@
    4. Em relação aos casos de teste, considere o valor do seguro de R$ 2.000,00 (Dois mil reais). Desta forma, o valor esperado, do resultado do caso de teste, deve ser o valor líquido a ser pago. Ou seja, o prêmio deduzido do valor correspondente ao percentual do desconto obtido pelo cliente.
 
 **Grafo de causa e efeito**
-<img src="https://github.com/GustavoMarques02/ts-2021-2/blob/main/Tarefa-005/imagens/Grafo-de-Causa-e-Efeito.png" width="100px">
+
+<img src="https://github.com/GustavoMarques02/ts-2021-2/blob/main/Tarefa-005/imagens/Grafo-de-Causa-e-Efeito.png">
 
 **Tabela de Decisão**
 
