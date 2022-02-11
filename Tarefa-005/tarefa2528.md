@@ -34,7 +34,6 @@
 |Sexo|Masculino|Masculino|Masculino|Masculino|Feminino|Feminino|Feminino|Feminino|
 |Idade (anos)|< 25|< 25|> 25|> 25|< 25|< 25|> 25|> 25|
 |Estado Civil|Solteiro|Casado|Solteiro|Casado|Solteira|Casada|Solteira|Casada|
-|---|---|---|---|---|---|---|---|---|
 |**Ações**| | | | | | | | |
 |Desconto|0%|5%|10%|15%|5%|10%|15%|20%|
 
