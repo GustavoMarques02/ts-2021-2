@@ -22,10 +22,10 @@
       1. Editar este arquivo e adicionar a tabela com os casos de teste, conforme exemplos disponibilizados em tarefas anteriores.
    4. Em relação aos casos de teste, considere o valor do seguro de R$ 2.000,00 (Dois mil reais). Desta forma, o valor esperado, do resultado do caso de teste, deve ser o valor líquido a ser pago. Ou seja, o prêmio deduzido do valor correspondente ao percentual do desconto obtido pelo cliente.
 
-**Grafo de causa e efeito**
+**Grafo de Causa e Efeito**
 
 <img src="https://github.com/GustavoMarques02/ts-2021-2/blob/main/Tarefa-005/imagens/Grafo-de-Causa-e-Efeito.png">
 
 **Tabela de Decisão**
 
-**Casos de teste**
+**Casos de Teste**
