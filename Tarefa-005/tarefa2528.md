@@ -38,3 +38,20 @@
 |Desconto|0%|5%|10%|15%|5%|10%|15%|20%|
 
 **Casos de Teste**
+
+|CT|Valor de Entrada|Resultado Esperado|Regra|
+|--|--|--|--|
+|CT01|Masculino;18;Solteiro          |Sem Desconto       |Regra1|
+|CT02|Masculino;23;Casado            |Desconto de 5%     |Regra2|
+|CT03|Masculino;30;Solteiro          |Desconto de 10%    |Regra3|
+|CT04|Masculino;52;Casado            |Desconto de 15%    |Regra4|
+|CT05|Feminino;15;Solteira           |Desconto de 5%     |Regra5|
+|CT06|Feminino;21;Casada             |Desconto de 10%    |Regra6|
+|CT07|Feminino;29;Solteira           |Desconto de 15%    |Regra7|
+|CT08|Feminino;48;Casada             |Desconto de 20%    |Regra8|
+
+Onde:
+**CT** = Caso de Teste, seguido de um valor sequencial;
+**Valor de entrada** é o valor informado para a variável;
+**Resultado esperado** é o resultado que se espera da execução da função;
+**Regra** é a identificação de qual regra da tabela de decisão está sendo exercitada pelo caso de teste.
