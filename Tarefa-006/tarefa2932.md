@@ -33,28 +33,25 @@ public class Avaliacao {
    3. Definir quantos caminhos de execução existem;
    4. Definir os casos de teste necessários para se percorrer todos estes caminhos. Cada caso de teste deve ter o valor correspondente para cada variável de entrada e o valor esperado.
 
-   **Grafo do Fluxo de Controle**
-
+   <br/>**Grafo do Fluxo de Controle**  
    <img src="https://github.com/GustavoMarques02/ts-2021-2/blob/main/Tarefa-006/imagens/Grafo-do-Fluxo-de-Controle.png">
 
-   **Complexidade Ciclomática (C)**
-
-   C = arcos - nós + 2
-   C = 14 - 11 + 2
-   C = 5
-
-   **Caminhos de Execução**
-
-   Considere o GFC abaixo:
-   <img src="https://github.com/GustavoMarques02/ts-2021-2/blob/main/Tarefa-006/imagens/GFC-Caminhos.png">
-   Os caminhos de execução serão:
+   <br/>**Complexidade Ciclomática (C)**  
+   C = arcos - nós + 2  
+   C = 14 - 11 + 2  
+   C = 5  
+   
+   <br/>**Caminhos de Execução**  
+   Considere o GFC abaixo:  
+   <img src="https://github.com/GustavoMarques02/ts-2021-2/blob/main/Tarefa-006/imagens/GFC-Caminhos.png">  
+   Os caminhos de execução serão:  
    1. ABCEGIK
    2. ABDK
    3. ABCFK
    4. ABCEHK
    5. ABCEGJK
 
-   **Casos de Teste**
+   <br/>**Casos de Teste**
 
    |Caso de Teste|B|C|E|G|Resultado Esperado|
    |--|--|--|--|--|--|
